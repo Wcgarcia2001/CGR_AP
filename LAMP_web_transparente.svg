@@ -4,7 +4,7 @@
 	 viewBox="0 0 84.453 46.868" style="enable-background:new 0 0 84.453 46.868;" xml:space="preserve">
 <g>
 	<rect x="2.115" y="7.235" style="fill:#F1F5F4;stroke:#8B7E7B;stroke-miterlimit:10;" width="9.256" height="31.724"/>
-	<path style="fill:#FFFFFF;stroke:#8B7E7B;stroke-width:4.0738;" d="M58.364,42.85L6.596,37.421V9.257l50.521-6.062
+	<path style="fill:none;stroke:#8B7E7B;stroke-width:4.0738;" d="M58.364,42.85L6.596,37.421V9.257l50.521-6.062
 		c0,0,23.676,0,23.676,20.144C80.793,44.33,58.364,42.85,58.364,42.85z"/>
 </g>
 </svg>
