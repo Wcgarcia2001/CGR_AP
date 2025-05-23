@@ -19,7 +19,7 @@
             
             <!-- Interior del círculo inferior (rojo, llenado completo) -->
             <path d="M16,12.8c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S19.3,12.8,16,12.8z"
-                  fill="red" />
+                  fill="blue" />
         </g>
         <g>
             <!-- Rectángulo vertical (sin cambios) -->
