@@ -8,18 +8,18 @@
             <path d="M16,31.2c-4.4,0-9.2-1.5-9.2-4.2s4.7-4.2,9.2-4.2c4.4,0,9.2,1.5,9.2,4.2C25.2,29.8,20.4,31.2,16,31.2z"
                   fill="none" stroke="black" stroke-width="1" />
             
-            <!-- Interior del círculo superior (rojo) -->
-            <path d="M16,24.3c-4.7,0-7.7,1.6-7.7,2.7s2.9,2.7,7.7,2.7c4.7,0,7.7-1.6,7.7-2.7S20.7,24.3,16,24.3z"
-                  fill="red" />
+            <!-- Interior del círculo superior (azul, llenado completo) -->
+            <path d="M16,31.2c-4.4,0-9.2-1.5-9.2-4.2s4.7-4.2,9.2-4.2c4.4,0,9.2,1.5,9.2,4.2C25.2,29.8,20.4,31.2,16,31.2z"
+                  fill="blue" />
         </g>
         <g>
             <!-- Contorno externo del círculo inferior (negro) -->
             <path d="M16,12.8c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S19.3,12.8,16,12.8z"
                   fill="none" stroke="black" stroke-width="1" />
             
-            <!-- Interior del círculo inferior (azul) -->
-            <path d="M16,2.2c-2.5,0-4.5,2-4.5,4.5s2,4.5,4.5,4.5s4.5-2,4.5-4.5S18.5,2.2,16,2.2z"
-                  fill="blue" />
+            <!-- Interior del círculo inferior (rojo, llenado completo) -->
+            <path d="M16,12.8c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S19.3,12.8,16,12.8z"
+                  fill="red" />
         </g>
         <g>
             <!-- Rectángulo vertical (sin cambios) -->
